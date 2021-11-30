@@ -777,8 +777,9 @@ button:active {
     position: fixed;
     top: 0;
     left: 0;
-    height: 50vh;
+    /* height: 50vh; */
     padding-top: 70px;
+    padding-bottom: 50px;
     text-align: center;
     box-shadow: 1px 1px 100px #060285;
   }
